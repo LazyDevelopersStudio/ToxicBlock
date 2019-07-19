@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1562518076,
+	"version": 1563575240,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,16 @@
 		"images/hero-sheet5.png",
 		"images/hero-sheet6.png",
 		"images/hero-sheet7.png",
+		"images/hero-sheet8.png",
+		"images/hero-sheet9.png",
+		"images/hero-sheet10.png",
+		"images/hero-sheet11.png",
+		"images/hero-sheet12.png",
+		"images/hero-sheet13.png",
+		"images/hero-sheet14.png",
+		"images/hero-sheet15.png",
+		"images/hero-sheet16.png",
+		"images/hero-sheet17.png",
 		"images/lvlback-sheet0.png",
 		"images/progressbar-sheet0.png",
 		"images/platform-sheet0.png",
